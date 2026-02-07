@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>特定商取引法に基づく表記</title>
+  <meta name="description" content="特定商取引法に基づく表記" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="header">
+  <div class="container nav">
+    <div class="brand">🐷 詰み回避ナビ</div>
+    <nav class="menu">
+      <a href="./index.html#service">サービス</a>
+      <a href="./index.html#pricing">料金</a>
+      <a href="./index.html#flow">流れ</a>
+      <a href="./index.html#faq">FAQ</a>
+    </nav>
+    <a class="btn btn-primary" href="./index.html#apply">申込</a>
+  </div>
+</header>
+
+<main>
+  <section class="section">
+    <div class="container">
+      <h1>特定商取引法に基づく表記</h1>
+      <p class="lead">本ページは、特定商取引法に基づき表示しています。</p>
+
+      <div class="card">
+        <dl class="tokusho">
+          <dt>事業者名</dt>
+          <dd>松尾怜歩</dd>
+
+          <dt>事業内容</dt>
+          <dd>韓国語学留学（語学堂）申請に関するチェック・相談サポート
+※申請代行ではありません
+ </dd>
+
+          <dt>所在地</dt>
+          <dd>請求があった場合、遅滞なく開示いたします</dd>
+
+          <dt>連絡先</dt>
+          <dd> leotissue1@gmail.com </dd>
+
+          <dt>販売価格</dt>
+          <dd>各サービスページに記載（税込）</dd>
+
+          <dt>商品代金以外の必要料金</dt>
+          <dd>インターネット接続に伴う通信費等はお客様のご負担となります</dd>
+
+          <dt>支払い方法</dt>
+          <dd>銀行振込（※今後、決済サービスを導入する場合があります）</dd>
+
+          <dt>支払い時期</dt>
+          <dd>サービス実施日までの事前支払い</dd>
+
+          <dt>サービス提供時期</dt>
+          <dd>入金確認後、日程調整のうえ提供いたします</dd>
+
+          <dt>キャンセル・返金について</dt>
+          <dd>
+            日程確定後のキャンセルは原則前日までにご連絡ください。<br>
+            当日キャンセルの場合、返金はいたしかねます。<br>
+            サービス提供後の返金には応じておりません。
+          </dd>
+
+          <dt>表現および注意事項</dt>
+          <dd>
+            本サービスは申請結果（合否・ビザ取得等）を保証するものではありません。<br>
+            判断はお客様ご自身の責任で行っていただきます。
+          </dd>
+        </dl>
+      </div>
+
+      <p style="margin-top:16px;">
+        <a class="btn btn-ghost" href="./index.html">← ホームに戻る</a>
+      </p>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <p class="small">© 🐷 詰み回避ナビ</p>
+  </div>
+</footer>
+
+</body>
+</html>
